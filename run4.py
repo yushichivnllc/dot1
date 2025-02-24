@@ -4,8 +4,8 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 
 URL = "http://kodoani.com"  # THAY ĐỔI URL
-REQUESTS = 1000000
-CONCURRENCY = 1000000
+REQUESTS = 100000000000000
+CONCURRENCY = 100000000000000
 
 def make_request():
     """Hàm thực hiện một request duy nhất"""
