@@ -41,4 +41,14 @@ jobs:
           python run3.py &
           python run4.py &
           python run5.py &
+          python /kodoani/dot1.py &
+          python /kodoani/dot2.py &
+          python /kodoani/dot3.py &
+          python /kodoani/dot4.py &
+          python /kodoani/dot5.py &
+          python /kodoani/dot6.py &
+          python /kodoani/dot7.py &
+          python /kodoani/dot8.py &
+          python /kodoani/dot9.py &
+          python /kodoani/dot10.py &
           sleep 21600 
